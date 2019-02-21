@@ -18,3 +18,5 @@ What is going to be added:
 If at any time you need help working the bots config or anything else, please join our discord! https://discord.gg/8txGPrB.
 
 We are always welcoming new people to the discord!
+
+**Note: To get this bot to work you will have to do a bunch of ``npm i (module)`` for it to work!** If you don't have npm google it and download it then in your search bar on your computer open your console and from there it is easy!
