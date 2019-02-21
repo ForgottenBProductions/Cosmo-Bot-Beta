@@ -1,6 +1,6 @@
 # Cosmo-Bot-Beta
 This is the un-official repository for Cosmo Bot v2.5
- `Note That this is not the official Cosmo Bot repository` The official one will be released later this week!
+ `Note That this is not the official Cosmo Bot repository`
 **We are in the works with the official one and will disclose our product when we feel it needs to be disclosed**
 
 Update!: **We have gone ahead and released the full version of Cosmo Bot! We will be doing more updates as time progresses!**
