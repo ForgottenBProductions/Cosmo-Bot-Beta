@@ -20,3 +20,13 @@ If at any time you need help working the bots config or anything else, please jo
 We are always welcoming new people to the discord!
 
 **Note: To get this bot to work you will have to do a bunch of ``npm i (module)``** If you don't have npm google it and download it then in your search bar on your computer open your console and from there it is easy!
+
+The bot also requires a `#bot-log` and a `#user-join` channel to return logs for warnings and other moderation commands. 
+
+The following commands/features won't work if a bot-log channel isn't found:
+
+`;warn [@NAME]`
+
+`When new members come into your guild`
+
+`When members leave the guild`
